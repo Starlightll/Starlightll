@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Starlightll
 - 👀 I’m interested in Game development 
-- 🌱 I’m currently learning SE at FPT University
+- 🌱 I’m currently learning at FPT University
 - 💞️ I’m looking to collaborate on Unreal Engine
 - 📫 How to reach me mosddm2003@gmail.com
 
