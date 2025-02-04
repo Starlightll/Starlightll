@@ -49,7 +49,7 @@ Here are a few of my favorite creations:
 
 Thanks for stopping by! Feel free to reach out if you want to collaborate, chat, or just share some memes. 😄
 
-> "Why do programmers prefer dark mode? Because the light attracts bugs!" 🐛
+> "Why do programmers prefer dark mode? Because the light attracts bugs!" 🪲
 
 <!---
 Starlightll/Starlightll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
