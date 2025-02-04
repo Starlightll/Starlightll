@@ -6,7 +6,7 @@ I'm a passionate developer with a love for Game Development, Web Development, an
 ## What I Do
 - **Game Development** 🎮: Bringing virtual worlds to life with Unity. If you see me talking to my computer, don't worry, I'm just debugging... or plotting world domination.
 - **Web Development** 🌐: Crafting beautiful and functional websites. No, I can't fix your WiFi (or can I), but I can make your website look awesome! :D
-- **Programming** 💻: Writing code in Python, Java, JavaScript, C#, and more! My code might not always work, but at least it looks good doing it.
+- **Sh*ty Programming** 💻: My code might not always work, but at least it looks...gek.
 
 ## Languages and Tools I Use
 - **Languages:** Python, JavaScript, HTML, CSS, Java, C# (I speak fluent binary too, beep boop)
