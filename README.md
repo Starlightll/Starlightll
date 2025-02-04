@@ -44,8 +44,8 @@ Here are a few of my favorite creations:
 
 ## Let's Connect!
 - **Email:** [mosddm2003@gmail.com](mailto:mosddm2003@gmail.com) (Drop me a line, I promise I don't bite... much 🦇)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile) (Let's network like pros 🤝)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) (Tweets, memes, and tech tips galore 🐦)
+<!-- - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile) (Let's network like pros 🤝)
+- **Twitter:** [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) (Tweets, memes, and tech tips galore 🐦) -->
 
 Thanks for stopping by! Feel free to reach out if you want to collaborate, chat, or just share some memes. 😄
 
