@@ -1,11 +1,11 @@
 # Hi there, I'm Starlightll 👋
 
 ## About Me
-I'm a passionate developer with a love for Game Development, Web Development, and all things programming. When I'm not coding, you can find me battling bugs (both in code and in real life) or dreaming up my next big project! 🚀
+I'm a developer with a love for all things programming. When I'm not coding, you can find me battling bugs (both in code and in real life ~.~) or dreaming up my next big project! 👍
 
 ## What I Do
-- **Game Development** 🎮: Bringing virtual worlds to life with Unity. If you see me talking to my computer, don't worry, I'm just debugging... or plotting world domination. Mwahaha! 😈
-- **Web Development** 🌐: Crafting beautiful and functional websites. No, I can't fix your WiFi (or can I? 🤔), but I can make your website look awesome! 😎
+- **Game Development** 🎮: If you see me talking to my computer, don't worry, I'm just debugging... or plotting world domination. Mwahaha! 😈
+- **Web Development** 🌐: I can't fix your WiFi (or can I? 🤔), but I can make your website look awesome! 😎
 - **Programming** 💻: Writing code in Python, Java, JavaScript, C#, and more! My code might not always work, but at least it looks good doing it. 😉
 
 ## Languages and Tools I Use
@@ -18,10 +18,11 @@ I'm a passionate developer with a love for Game Development, Web Development, an
   - (I speak fluent binary too, beep boop 🤖)
 - **Frameworks and Libraries:**
   - React ⚛️
+  - React Native ⚛️
   - Angular 🅰️
   - Node.js 🟢
   - Spring Boot 🌱
-  - ASP.NET 💼
+  - ASP.NET Core 💼
   - (Because who doesn't love a good library? 📚)
 - **Game Development:** 
   - Unity 🎮 (Where my digital dreams come to life)
