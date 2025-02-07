@@ -8,14 +8,14 @@ Welcome to my GitHub profile! I'm a student with big dreams, a passion for codin
 
 - **Name:** Starlightll
 - **Status:** Student | Lifelong Learner | Future Tech Guru
-- **Major:** [Your Field of Study] (e.g., Computer Science, Software Engineering)
+- **Major:**  Computer Science, Software Engineering
 - **Interests:** Learning new programming languages, solving puzzles, and finding the humor in every bug.
 
 ---
 
 ## Education
 
-I'm currently studying at **[Your University/College Name]**, where I dive deep into the theories and practicalities of modern computing. Every day is a new opportunity to learn something awesome (and occasionally learn why my code doesn't work)!
+I'm currently studying at **[FPT University]**, where I dive deep into the theories and practicalities of modern computing. Every day is a new opportunity to learn something awesome (and occasionally learn why my code doesn't work)!
 
 ---
 
@@ -47,7 +47,7 @@ Because learning is more fun with a few giggles:
 ## Skills & Technologies
 
 - **Languages:** JavaScript, Java, C, C# (and a secret mastery over "CoffeeScript" – just kidding, it's all about coffee! ☕)
-- **Tools:** Git, VSCode, and other handy study companions.
+- **Tools:** Git, VS, VSCode, Intellij Idea, Unity, SQLServer, Docker, and other handy study companions.
 - **Frameworks:** Familiar with the basics of React, Springboot, ASP.NET Core, Node.js, or any useful library that eases my learning curve.
 
 ---
