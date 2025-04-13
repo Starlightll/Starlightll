@@ -29,20 +29,6 @@ I started with simple scripts and gradually worked my way up to building project
 
 ---
 
-## Programming Jokes
-
-Because learning is more fun with a few giggles:
-
-- **Q:** Why do programmers prefer dark mode?  
-  **A:** Because light attracts bugs!
-
-- **Q:** How many programmers does it take to change a light bulb?  
-  **A:** None – that's a hardware problem!
-
-- **Q:** What's a student's favorite debugging tool?  
-  **A:** A cup of coffee... and lots of caffeine!
-
----
 
 ## Skills & Technologies
 
