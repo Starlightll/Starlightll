@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a student with big dreams, a passion for codin
 - **Name:** Starlightll
 - **Status:** Student | Lifelong Learner | Future Tech Guru
 - **Major:**  Computer Science, Software Engineering
-- **Interests:** Learning new programming languages, solving puzzles, and finding the humor in every bug.
+- **Interests:** Learning computer science, games development, and finding the humor in every bug.
 
 ---
 
