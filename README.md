@@ -1,4 +1,4 @@
-# Hey there, I'm Starlightll! 👋
+# Hey there, I'm Starlight! 👋
 
 Welcome to my GitHub profile! I'm a student with big dreams, a passion for coding, and a knack for injecting humor into my daily study routine. When I'm not buried in textbooks or debugging my own projects, I'm exploring exciting technologies and cracking a few programming jokes. 😉
 
