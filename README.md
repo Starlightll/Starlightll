@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a student with big dreams, a passion for codin
 ## About Me
 
 - **Name:** Starlightll
-- **Status:** Student | Lifelong Learner | Future Tech Guru
+- **Status:** Student | Lifelong Learner | Future Tech Guru (shit gonna be true) "some day :)"
 - **Major:**  Computer Science, Software Engineering
 - **Interests:** Learning computer science, games development, and finding the humor in every bug.
 
